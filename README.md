@@ -1,4 +1,4 @@
-## 脚本两周内将与KVM合并！
+## 脚本两周内将与KVM合并！别fork也别start啦！！
 
 ```
 wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/kkkyg/DJwarp/DJwarp.sh && chmod +x DJwarp.sh && ./DJwarp.sh
