@@ -1,4 +1,7 @@
-## 脚本两周内将与KVM合并！别fork也别start啦！！
+## 本项目即将删除，两周内将与KVM合并！
+
+最新项目地址：https://github.com/kkkyg/CFwarp
+
 
 ```
 wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/kkkyg/DJwarp/DJwarp.sh && chmod +x DJwarp.sh && ./DJwarp.sh
